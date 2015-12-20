@@ -8,7 +8,7 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 
 /**
- * @author <a href="mailto:sunil.pulugula@wavemaker.com">Sunil Kumar</a>
+ * @author <a href="mailto:psunil1278@gmail.com">Sunil Kumar</a>
  * @since 20/12/15
  */
 @Configuration

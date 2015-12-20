@@ -3,7 +3,7 @@ package com.spring.security.configuration;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
 /**
- * @author <a href="mailto:sunil.pulugula@wavemaker.com">Sunil Kumar</a>
+ * @author <a href="mailto:psunil1278@gmail.com">Sunil Kumar</a>
  * @since 20/12/15
  */
 public class HelloWorldSpringMvcInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
