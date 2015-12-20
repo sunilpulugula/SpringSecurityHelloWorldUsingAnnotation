@@ -1,0 +1,2 @@
+# SpringSecurityHelloWorldUsingAnnotation
+Spring security app using annotation
